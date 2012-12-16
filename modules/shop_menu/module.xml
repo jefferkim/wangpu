@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="GBK"?>
+<module xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="../../../module.xsd">
+    <id>shop_menu</id>
+    <name>头部导航</name>
+    <file>shop_menu.php</file>
+    <thumbnail>/assets/images/frontpage.png</thumbnail>
+    <description>头部导航</description>
+    <parameters>
+        <param name="menu_link_0" label="链接1" description="链接1" ptype="text" formType="text">
+            http://www.taobao.com
+        </param>
+		<param name="menu_img_0" label="图片1" description="图片1" ptype="text" formType="text">
+            http://img01.taobaocdn.com/imgextra/i1/79547865/T2ZAerXcpbXXXXXXXX_!!79547865.jpg
+        </param>
+
+		<param name="menu_link_1" label="链接2" description="链接2" ptype="text" formType="text">
+            http://www.taobao.com
+        </param>
+		<param name="menu_img_1" label="图片2" description="图片2" ptype="text" formType="text">
+            http://img04.taobaocdn.com/imgextra/i4/79547865/T2oiKlXk4bXXXXXXXX_!!79547865.jpg
+        </param>
+
+		<param name="menu_link_2" label="链接3" description="链接3" ptype="text" formType="text">
+           http://www.taobao.com
+        </param>
+		<param name="menu_img_2" label="图片3" description="图片3" ptype="text" formType="text">
+            http://img03.taobaocdn.com/imgextra/i3/79547865/T2uGmAXfRbXXXXXXXX_!!79547865.jpg
+        </param>
+        <param name="menu_link_3" label="链接4" description="链接4" ptype="text" formType="text">
+           http://www.taobao.com
+        </param>
+		<param name="menu_img_3" label="图片4" description="图片4" ptype="text" formType="text">
+            http://img02.taobaocdn.com/imgextra/i2/79547865/T2tL0qXl0NXXXXXXXX_!!79547865.jpg
+        </param> 
+
+    </parameters>
+</module>

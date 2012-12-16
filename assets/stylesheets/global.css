@@ -1732,3 +1732,91 @@
 	text-align:center;	
 }
 /* -------------------------- End of 文章详情模块 from cms_detail.css ------------------------------ */
+
+
+    
+/*自定义模块by jinjianfeng*/
+
+body{
+	background:#FCF4E4;
+}
+a{
+	color:#661718;
+}
+ .shop-menu{
+ 	  width:950px;
+	  height:130px; 	
+ }    
+ .jinjianfeng .box .hd{
+    width:750px;
+ 	height:45px;
+	background:url("http://img04.taobaocdn.com/imgextra/i4/T2.Id.XXdaXXXXXXXX-111652397.gif") no-repeat scroll 0 0;
+ 	
+ }
+.jinjianfeng .box .hd h3{		
+	font-weight: bold;
+	height: 45px;
+	line-height: 45px;
+	padding-left: 50px; 
+    color:##661718;	
+ }
+ .jinjianfeng .grid .more-items a {
+ 	border: none;
+    color: #FCF4E4;
+	background:url("http://img02.taobaocdn.com/imgextra/i2/T27H8.XoVXXXXXXXXX-111652397.jpg") no-repeat scroll 0 0;
+ }
+ .jinjianfeng .box .bd{
+	background:none;
+ }
+ .jinjianfeng a{
+	color:#661718;
+ }
+ .jinjianfeng a:hover{
+	color: #AF5031;
+    text-decoration: none;
+ }
+ .jinjianfeng .grid .price span{
+	display:none;
+ }
+ .jinjianfeng .grid .price strong{		
+	background: url(http://img02.taobaocdn.com/imgextra/i2/T2fsh.Xo4XXXXXXXXX-111652397.gif) no-repeat left 50%; 
+	color: #661718;
+	font-size: 14px;
+	font-family: georgia;
+	padding-left: 20px; 	
+ }
+  .jinjianfeng-sub .shop-category .bd{
+	padding:0;
+    border:none;
+    background:none;
+ }
+.jinjianfeng-sub .shop-category .hd {
+background: url(http://img01.taobaocdn.com/imgextra/i1/T2kIh.XoRXXXXXXXXX-111652397.gif);
+border: 0px;
+height: 80px;
+width: 190px;
+ text-indent:-9999px;
+}
+ .jinjianfeng-sub .shop-category .bd ul{
+	width:190px;
+ }
+ .jinjianfeng-sub .shop-category .bd ul h4 {
+ 	 padding-left:0;
+	   background:none;
+  }
+ .jinjianfeng-sub .shop-category .bd ul h4 a{
+	width: 190px;
+	line-height: 45px;
+	min-height: 45px;
+	padding-left: 30px;
+	color: #FCF4E4;
+	font-size: 14px;
+	font-family: 微软雅黑;
+	overflow: hidden;
+	display: block;
+	background: url(http://img03.taobaocdn.com/imgextra/i3/T2cch.XXXaXXXXXXXX-111652397.gif) no-repeat;
+	background-position: 0px 0px; 
+ } 
+ .shop-category i{
+	display:none;
+ }
